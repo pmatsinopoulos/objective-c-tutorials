@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Chapter4">
+      <FileRef
+         location = "group:guess-random-number/guess-random-number.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:while-loop/while-loop.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:for-loop-example/for-loop-example.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:boolean-types/boolean-types.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chapter3">
+      <FileRef
+         location = "group:subtract-two-floats/subtract-two-floats.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:squares-a-float/squares-a-float.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
