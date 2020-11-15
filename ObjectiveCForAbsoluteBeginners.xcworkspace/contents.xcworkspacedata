@@ -3,6 +3,19 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Chapter5">
+      <FileRef
+         location = "group:MyFirstApp/MyFirstApp.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:hello-world-with-objects/hello-world-with-objects.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:bookstore/bookstore.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Chapter4">
       <FileRef
          location = "group:guess-random-number/guess-random-number.xcodeproj">
