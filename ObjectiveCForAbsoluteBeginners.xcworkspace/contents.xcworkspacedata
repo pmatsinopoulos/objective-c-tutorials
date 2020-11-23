@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Chapter7">
+      <FileRef
+         location = "group:RadioStation/RadioStation.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Chapter5">
       <FileRef
          location = "group:MyFirstApp/MyFirstApp.xcodeproj">
