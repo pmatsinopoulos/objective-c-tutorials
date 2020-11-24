@@ -5,6 +5,9 @@
       location = "container:"
       name = "Chapter7">
       <FileRef
+         location = "group:RadioStations/RadioStations.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:RadioStation/RadioStation.xcodeproj">
       </FileRef>
    </Group>
